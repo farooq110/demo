@@ -1,0 +1,21 @@
+[
+  {
+    "_id": {
+      "$oid": "601a8623628917186cfd045a"
+    },
+    "flag": true,
+    "name": "admin",
+    "email": "admin@admin.com",
+    "password": "$2a$10$TyiBAzDLKf0IjJPkNcIEU.rYgFgqeuoZVtjMtoCrT.rTZl0ppg9Pm",
+    "key": null,
+    "package": null,
+    "createdAt": {
+      "$date": "2021-02-03T11:16:51.439Z"
+    },
+    "updatedAt": {
+      "$date": "2021-04-10T07:04:22.016Z"
+    },
+    "__v": 0,
+    "image": "storage/1618038240330depika.jpg"
+  }
+]

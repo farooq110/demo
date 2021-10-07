@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6059b2dab94ab9263894af5a"
+  },
+  "show": true,
+  "native": "ca-app-pub-3940256099942544/2247696110",
+  "reward": "ca-app-pub-3940256099942544/5224354917",
+  "type": "google",
+  "createdAt": {
+    "$date": "2021-03-23T09:20:26.521Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-14T09:27:53.633Z"
+  },
+  "__v": 0,
+  "interstitial": "ca-app-pub-3940256099942544/1033173712"
+},{
+  "_id": {
+    "$oid": "6059b2e2b94ab9263894af5b"
+  },
+  "show": true,
+  "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "reward": " IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "type": "facebook",
+  "createdAt": {
+    "$date": "2021-03-23T09:20:34.028Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-14T09:28:13.607Z"
+  },
+  "__v": 0,
+  "interstitial": "VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID"
+}]

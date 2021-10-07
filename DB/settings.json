@@ -1,0 +1,35 @@
+[
+  {
+    "_id": {
+      "$oid": "604320b3966bac447c4b8ad0"
+    },
+    "hostCharge": 5,
+    "loginBonus": 2000,
+    "googlePayId": "GOOGLE PAY ID",
+    "agoraId": "AGORA ID",
+    "policyLink": "Demo",
+    "createdAt": {
+      "$date": "2021-03-06T06:26:59.248Z"
+    },
+    "updatedAt": {
+      "$date": "2021-05-13T13:08:18.014Z"
+    },
+    "__v": 0,
+    "redeemGateway": "Paytm,Paypal,Google pay,Amazone",
+    "currency": "$",
+    "howManyCoins": 2000,
+    "minPoints": 200,
+    "toCurrency": 1,
+    "dailyTaskMaxValue": 200,
+    "dailyTaskMinValue": 50,
+    "googlePaySwitch": true,
+    "razorPayId": "RAZOR PAY ID",
+    "razorPaySwitch": true,
+    "stripeId": "STRIPE ID",
+    "stripeSwitch": true,
+    "userCallCharge": 50,
+    "userLiveStreamingCharge": 100,
+    "streamingMaxValue": 200,
+    "streamingMinValue": 0
+  }
+]
